@@ -10,3 +10,5 @@ Simple SSH bruteforcer with a basic and colorful interface. The SSH connection i
 - Launch the application with `python BruteForceSSH.py` then enter the requested information of your target. 
 
 I clearly specify that I am in no way responsible for your actions and that I offer this tool developed by me for educational purposes only.
+
+<img src="https://cdn.discordapp.com/attachments/351798326129197057/822459088537518090/unknown.png" alt="" />
