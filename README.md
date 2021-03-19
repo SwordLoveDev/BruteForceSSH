@@ -8,4 +8,5 @@ Simple SSH bruteforcer with a basic and colorful interface. The SSH connection i
 # How used it
 - You need to add your password wordlist in the `wordlist.txt` file. 
 - Launch the application with `python BruteForceSSH.py` then enter the requested information of your target. 
+
 I clearly specify that I am in no way responsible for your actions and that I offer this tool developed by me for educational purposes only.
