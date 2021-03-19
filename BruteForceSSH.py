@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+#-*- coding: utf-8 -*-
+# Code by Sword
+
 import paramiko
 import socket
 import sys
