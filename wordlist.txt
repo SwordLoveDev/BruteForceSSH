@@ -1,0 +1,9 @@
+test
+test123
+admin
+password
+kali
+root
+test
+user
+ubnt
